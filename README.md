@@ -1,2 +1,2 @@
 # cmp341-test1
-CPMP341 Exam 1
+[CMP341] Exam 1
